@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">あ ImageTest</string>
+    <string name="app_name">あ TestExternalStoragePhoto</string>
+    <string name="description">photo</string>
+    <string name="save">Button Save</string>
+    <string name="read">Button Read</string>
+    <string name="saved">image saved</string>
+    <string name="error">error: FileOutputStream </string>
 </resources>
